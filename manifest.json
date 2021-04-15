@@ -1,0 +1,11 @@
+{
+  "name": "Youtube in Google Search",
+  "version": "1.0",
+  "description": "Creates a tab in google search to directly search youtube videos, instead of searching through Google's video search",
+  "manifest_version": 2,
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
