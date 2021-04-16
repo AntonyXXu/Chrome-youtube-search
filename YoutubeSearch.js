@@ -1,5 +1,3 @@
-// import YouTubeLogo from "./component/logo";
-
 function addYoutubeSearch() {
   //Check if current host is google
 
