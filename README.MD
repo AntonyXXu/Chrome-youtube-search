@@ -4,3 +4,5 @@ Google's Video search often redirects you to some random websites. This adds You
 Checks beforehand to see if you're on google search path, and if the youtube tab is already added.
 
 ## Gif Demo:
+
+![Chrome-Youtube-Google-Search](https://user-images.githubusercontent.com/77988513/114970919-9a5bd980-9e38-11eb-8493-f9339eefa256.gif)
