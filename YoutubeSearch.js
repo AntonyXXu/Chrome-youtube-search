@@ -40,6 +40,7 @@ function addYoutubeSearch() {
 
 addYoutubeSearch();
 
+//Just returning the SVG for the Youtube Logo
 function YoutubeLogo() {
   return '<svg focusable="false" viewBox="0 0 95 95">	\
               <path d="M82.287,45.907c-0.937-4.071-4.267-7.074-8.275-7.521c-9.489-1.06-19.098-1.065-28.66-1.06 \
